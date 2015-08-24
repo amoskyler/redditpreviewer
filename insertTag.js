@@ -2,7 +2,7 @@
   'use strict';
 
   var config = {
-    url: "https://16e45952.ngrok.io"
+    url: "https://redditpreviewer.com"
   }
 
   function findEligibleLinks () {
