@@ -1,3 +1,6 @@
+## A previewer for reddit
+- A chrome extension which will generate a sharable links to snapshots of reddit threads
+
 ```
 git clone git@github.com/amoskyler/redditpreviewer.git
 ```
