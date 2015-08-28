@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "gifcoolery.gif",
+  "name": "Reddit Previewer",
   "description": "This extension lets users copy a reddit gif into an easily shareable link",
   "version": "0.0",
   "content_scripts": [
